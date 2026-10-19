@@ -16,3 +16,9 @@
 | Week 11 – Nov 23 | Autonomous Research and Its Evaluation                            |       |
 | Week 12 – Nov 30 | AI-Mediated and Algorithmic Platforms                             |       |
 | Week 13 – Dec 7  | Final Presentation                                                |       |
+
+
+## Presentation papers:
+Week 6 
+  - [https://aclanthology.org/2026.acl-long.635/]
+  - [https://arxiv.org/abs/2605.01048]
