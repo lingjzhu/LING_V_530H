@@ -9,7 +9,7 @@
 | Week 4 – Oct 5   | Human–AI Collaborative Decision-Making                            |  [Link](https://docs.google.com/presentation/d/1jrnojxVbWPACbBz4yHm_bAZqI5nGuyYZ/edit?usp=sharing&ouid=112294184629923047190&rtpof=true&sd=true)     |
 | Week 5 – Oct 12  | No class – Thanksgiving                                           |       |
 | Week 6 – Oct 19  | LLMs and Interactive Narratives / Project Pitch Presentation      |       |
-| Week 7 – Oct 26  | Social AI and Social Simulation                                   |       |
+| Week 7 – Oct 26  | Social AI and Social Simulation                                   | [Link](https://docs.google.com/presentation/d/17fFg5s2_cDyvuLOOnvPr-5i1pEknZh3O/edit?usp=sharing&ouid=112294184629923047190&rtpof=true&sd=true)      |
 | Week 8 – Nov 2   | Multimodal AI and Embodied Communication                          |       |
 | Week 9 – Nov 9   | No class – Midterm Break                                          |       |
 | Week 10 – Nov 16 | LLM-Assisted Writing and Research / Project Progress Presentation |       |
