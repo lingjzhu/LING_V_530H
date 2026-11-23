@@ -13,7 +13,7 @@
 | Week 8 – Nov 2   | Multimodal AI and Embodied Communication                          |  [Link](https://docs.google.com/presentation/d/1d1-CVaCfFV2FdxzqJsKhZhGL6YIZcC1w/edit?usp=sharing&ouid=112294184629923047190&rtpof=true&sd=true)       |
 | Week 9 – Nov 9   | No class – Midterm Break                                          |       |
 | Week 10 – Nov 16 | LLM-Assisted Writing and Research / Project Progress Presentation |       |
-| Week 11 – Nov 23 | Autonomous Research and Its Evaluation                            |       |
+| Week 11 – Nov 23 | Autonomous Research and Its Evaluation                            |  [Link](https://docs.google.com/presentation/d/1RCOU24rrTdO-0019WEhmwKY-n043xDLx/edit?usp=sharing&ouid=112294184629923047190&rtpof=true&sd=true)     |
 | Week 12 – Nov 30 | AI-Mediated and Algorithmic Platforms                             |       |
 | Week 13 – Dec 7  | Final Presentation                                                |       |
 
